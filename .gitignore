@@ -1,0 +1,12 @@
+# Compiled files
+*.exe
+*.o
+
+# Backup files
+backup_v1/
+
+# VS Code settings
+.vscode/
+
+# Temporary files
+*.tmp
